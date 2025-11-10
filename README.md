@@ -94,3 +94,21 @@ Verify data types and consistency
 • Analyze price trends and delivery growth
 
 • Highlight delivery patterns and market insights
+
+**👨‍💻 Author**
+**Created by:** Shivam SIngh,  Diljan Ansari,  Sumaiya Fatima 
+
+**Date:** 10/11/2025 
+
+**Contact:** adityasinghrajput3234@gmail.com
+
+**📝 License**
+
+       This project is for educational and analytical purposes.
+🙏 **Acknowledgments**
+
+    Data analysis performed using pandas and numpy
+    Visualizations created with matplotlib
+    Excel integration via openpyxl
+    Inspired by BMW's commitment to excellence and innovation
+
